@@ -1,1 +1,0 @@
-[https://ruby.style](Ruby Style)
